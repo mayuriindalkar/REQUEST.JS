@@ -1,0 +1,72 @@
+{
+   "course": {
+      "id": "295",
+      "name": "Alumni Stories",
+      "logo": "https://merakilearn.s3.ap-south-1.amazonaws.com/lowSizeCourseImages/residential/alumni_stories.jpg",
+      "notes": null,
+      "days_to_complete": null,
+      "short_description": "Alumni stories.",
+      "type": "html",
+      "course_type": "json",
+      "lang_available": [
+         "en",
+         "hi"
+      ],
+      "exercises": [
+         {
+            "id": "7689",
+            "parent_exercise_id": null,
+            "course_id": "295",
+            "name": "Alumni-Stories",
+            "slug": "alumni-story_json__Alumni-Stories_json",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "submission_type": null,
+            "github_link": "https://github.com/navgurukul/newton/tree/master/alumni-story_json/Alumni-Stories.json",
+            "solution": null,
+            "content": [
+               {
+                  "component": "text",
+                  "value": "Rani (our alumni from Bihar's story):"
+               },
+               {
+                  "component": "youtube",
+                  "value": "XJ6hcfkSDkw"
+               },
+               {
+                  "component": "text",
+                  "value": "Kajal (Our Alumni Story from Delhi):"
+               },
+               {
+                  "component": "youtube",
+                  "value": "o3mXHf7LWiw"
+               },
+               {
+                  "component": "text",
+                  "value": "Meet India’s Next Generation of <span style=\"\">Code</span>rs in collaboration with Amazon:"
+               },
+               {
+                  "component": "youtube",
+                  "value": "5_G_Q4rSiUU"
+               },
+               {
+                  "component": "text",
+                  "value": "NavGurukul- Interview with Students"
+               },
+               {
+                  "component": "youtube",
+                  "value": "27iEQ3UxboQ"
+               },
+               {
+                  "component": "text",
+                  "value": "Student &amp; Alumni Experience in NavGurukul"
+               },
+               {
+                  "component": "youtube",
+                  "value": "vuSwndj5cbs"
+               }
+            ]
+         }
+      ]
+   }
+}
